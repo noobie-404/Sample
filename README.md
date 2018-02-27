@@ -1,6 +1,3 @@
-# Sample
-
-##2nd heading
-
-
-####3rd heading
+# The largest heading
+## The second largest heading
+###### The smallest heading
